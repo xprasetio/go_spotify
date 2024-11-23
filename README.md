@@ -1,1 +1,5 @@
-# go_spotify
+# diagram ERD
+
+![alt text](erd.png)
+
+

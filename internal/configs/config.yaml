@@ -1,0 +1,7 @@
+service:
+  port: ":9999"
+  secretJWT: "rahasiaDongBos"
+
+database:
+  # dataSourceName: "host=localhost user=postgres password=postgres dbname=go_spotify port=5432 sslmode=disable TimeZone=Asia/Jakarta"
+  dataSourceName: "postgres://postgres:postgres@localhost:5432/go_spotify?sslmode=disable"
